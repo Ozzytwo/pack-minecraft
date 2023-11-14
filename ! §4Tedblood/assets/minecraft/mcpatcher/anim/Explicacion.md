@@ -1,4 +1,6 @@
-duration=3 // son los segundos que dura la animacion dentro del inventario.
+# Explicacion
+duration=3 // son los segundos que dura la animacion dentro del inventario
+
 h=512 // Alto
 w=512 // Ancho
 // H y W debe coincidir con el tamaño del inventario que este en minecraft/textures/gui/container/inventory.png 
