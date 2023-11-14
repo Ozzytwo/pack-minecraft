@@ -1,1 +1,7 @@
-el
+duration=3 // son los segundos que dura la animacion dentro del inventario
+h=512 // Alto la resolucion del inventario ya sea el principal  en la carpeta colocado en el texture pack
+w=512 // Ancho
+x=0
+y=0
+from=./crytednw.png
+to=textures/gui/container/inventory.png
